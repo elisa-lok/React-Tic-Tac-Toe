@@ -1,7 +1,7 @@
 # Tic Tac Toe - React Game
 This is a two-player Tic Tac Toe game built using React.
 
-<img width="468" alt="image" src="https://github.com/elisa-lok/React-Tic-Tac-Toe/assets/129917335/cbdc6b94-c899-4c11-85af-3b85c2a9f25d">
+<img width="468" alt="image" src="https://github.com/elisa-lok/React-Tic-Tac-Toe/assets/129917335/840577d9-c110-4575-a935-9f823c3fb6c9">
 
 <img width="468" alt="image" src="https://github.com/elisa-lok/React-Tic-Tac-Toe/assets/129917335/b53c621e-b3e8-44d7-bd47-adb617d78fba">
 
